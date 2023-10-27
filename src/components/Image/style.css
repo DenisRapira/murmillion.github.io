@@ -1,0 +1,32 @@
+.image {
+  border-radius: 20px;
+  height: 112px;
+  position: relative;
+  width: 112px;
+}
+
+.image .img {
+  height: 102px;
+  object-fit: cover;
+  position: absolute;
+}
+
+.image.one {
+  background-color: #f0f2fa;
+}
+
+.image.two {
+  background-color: #ffede0;
+}
+
+.image.one .img {
+  left: 15px;
+  top: 0;
+  width: 82px;
+}
+
+.image.two .img {
+  left: 5px;
+  top: 5px;
+  width: 102px;
+}

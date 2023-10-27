@@ -1,0 +1,303 @@
+.home {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.home .div-2 {
+  background: linear-gradient(180deg, rgb(242.23, 230.07, 246.5) 0%, rgb(255, 255, 255) 100%);
+  background-color: rgba(255, 255, 255, 1);
+  height: 852px;
+  overflow: hidden;
+  position: relative;
+  width: 393px;
+}
+
+.home .overlap {
+  height: 288px;
+  left: 0;
+  position: absolute;
+  top: 564px;
+  width: 393px;
+}
+
+.home .base {
+  background-color: #ffe5b4;
+  border-radius: 32px;
+  height: 160px;
+  left: 24px;
+  overflow: hidden;
+  position: absolute;
+  top: 24px;
+  width: 345px;
+}
+
+.home .i-have-the {
+  color: #12121266;
+  font-family: "Ubuntu", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 141px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 94px;
+  width: 180px;
+}
+
+.home .p {
+  color: #121212;
+  font-family: "Urbanist", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 141px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 30px;
+  width: 180px;
+}
+
+.home .ILLUSTRATION {
+  height: 148px;
+  left: 0;
+  position: absolute;
+  top: 12px;
+  width: 141px;
+}
+
+.home .base-2 {
+  background-color: #ffffff;
+  border-radius: 86.5px;
+  filter: blur(200px);
+  height: 173px;
+  left: 0;
+  position: absolute;
+  top: 115px;
+  width: 393px;
+}
+
+.home .bottom-menu {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 208px;
+  width: 393px;
+}
+
+.home .sparkle {
+  height: 48px;
+  left: 297px;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.home .search {
+  height: 120px;
+  left: 137px;
+  position: absolute;
+  top: 132px;
+  width: 120px;
+}
+
+.home .search-2 {
+  height: 117px;
+  left: 197px;
+  position: absolute;
+  top: 171px;
+  width: 120px;
+}
+
+.home .search-3 {
+  height: 117px;
+  left: 77px;
+  position: absolute;
+  top: 171px;
+  width: 120px;
+}
+
+.home .card-2 {
+  background-color: #f5e2ff;
+  border-radius: 24px;
+  height: 196px;
+  left: 229px;
+  position: absolute;
+  top: 341px;
+  width: 140px;
+}
+
+.home .overlap-group-2 {
+  height: 199px;
+  left: 0;
+  position: absolute;
+  top: -42px;
+  width: 164px;
+}
+
+.home .image-2 {
+  height: 172px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 164px;
+}
+
+.home .text-wrapper-5 {
+  color: #121212;
+  font-family: "Urbanist", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 171px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-6 {
+  color: #12121266;
+  font-family: "Ubuntu", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 165px;
+  white-space: nowrap;
+}
+
+.home .overlap-2 {
+  height: 317px;
+  left: 24px;
+  position: absolute;
+  top: 0;
+  width: 648px;
+}
+
+.home .text-wrapper-7 {
+  color: #121212;
+  font-family: "Ubuntu", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 144px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  white-space: nowrap;
+}
+
+.home .base-3 {
+  height: 40px;
+  left: 0;
+  position: absolute;
+  top: 55px;
+  width: 40px;
+}
+
+.home .text-wrapper-8 {
+  color: #121212;
+  font-family: "Urbanist", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0.4px;
+  line-height: normal;
+  position: absolute;
+  top: 123px;
+  white-space: nowrap;
+}
+
+.home .overlap-3 {
+  height: 317px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 648px;
+}
+
+.home .card-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 169px !important;
+}
+
+.home .design-component-instance-node {
+  width: 20px !important;
+}
+
+.home .card-3 {
+  left: 328px !important;
+  position: absolute !important;
+  top: 169px !important;
+}
+
+.home .star {
+  height: 173px;
+  left: 212px;
+  position: absolute;
+  top: 0;
+  width: 157px;
+}
+
+.home .text-wrapper-9 {
+  color: #121212;
+  font-family: "Urbanist", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0.4px;
+  line-height: normal;
+  position: absolute;
+  top: 356px;
+  white-space: nowrap;
+}
+
+.home .text-wrapper-10 {
+  color: #aaaaaa;
+  font-family: "Ubuntu", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 388px;
+  width: 164px;
+}
+
+.home .select {
+  align-items: center;
+  background-color: #121212;
+  border-radius: 100px;
+  display: inline-flex;
+  gap: 4px;
+  justify-content: center;
+  left: 24px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 465px;
+}
+
+.home .dice {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.home .text-wrapper-11 {
+  color: #ffffff;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  position: relative;
+  width: 40px;
+}

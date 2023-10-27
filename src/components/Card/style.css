@@ -1,0 +1,126 @@
+.card {
+  background-color: #ffffff;
+  border-radius: 24px;
+  height: 148px;
+  overflow: hidden;
+  position: relative;
+  width: 320px;
+}
+
+.card .overlap-group {
+  border-radius: 20px;
+  height: 112px;
+  left: 16px;
+  position: absolute;
+  top: 18px;
+  width: 112px;
+}
+
+.card .image-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.card .label {
+  align-items: center;
+  background-color: #9470ff;
+  border-radius: 0px 20px 0px 16px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 50px;
+  overflow: hidden;
+  padding: 4px 12px;
+  position: absolute;
+  top: 0;
+}
+
+.card .text-wrapper {
+  color: #ffffff;
+  font-family: "Ubuntu", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.card .div {
+  color: #000000;
+  font-family: "Urbanist", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 140px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 23px;
+  width: 159px;
+}
+
+.card .nutrition {
+  align-items: flex-start;
+  border-radius: 12px;
+  display: inline-flex;
+  gap: 10px;
+  left: 140px;
+  padding: 8px 0px;
+  position: absolute;
+  top: 72px;
+}
+
+.card .information {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.card .title {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 6px;
+  position: relative;
+}
+
+.card .text-wrapper-2 {
+  color: #5d5d5d;
+  font-family: "Ubuntu", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 45px;
+}
+
+.card .text-wrapper-3 {
+  color: #121212;
+  font-family: "Ubuntu", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.card .text-wrapper-4 {
+  color: #5d5d5d;
+  font-family: "Ubuntu", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 32px;
+}
